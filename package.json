@@ -1,0 +1,18 @@
+{
+    "name": "bumpy-cheek-utilize-99r8l",
+    "productName": "bumpy-cheek-utilize-99r8l",
+    "description": "My Electron application description",
+    "keywords": [],
+    "main": "./main.js",
+    "version": "1.0.0",
+    "author": "sander.boer",
+    "scripts": {
+        "start": "electron ."
+    },
+    "dependencies": {
+        "johnny-five": "https://github.com/xiduzo/johnny-five.git"
+    },
+    "devDependencies": {
+        "electron": "33.3.0"
+    }
+}
